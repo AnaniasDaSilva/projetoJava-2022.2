@@ -1,0 +1,1 @@
+{"resources":{"scripts/create_db.sql":{"default-datasource":"mysql8-1877328c101-5a9df9953ea2d3f6","default-catalog":"finaldb"},"scripts/insert_db.sql":{"default-datasource":"mysql8-1877328c101-5a9df9953ea2d3f6","default-catalog":"finaldb"}}}
