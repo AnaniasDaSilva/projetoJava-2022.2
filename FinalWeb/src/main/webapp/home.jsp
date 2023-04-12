@@ -14,7 +14,7 @@
 				<div id="logo"><img src="images/layout.png" height="100%" width="100%"></div>
 				<div id="menu"><a href="LogoutServlet" style="color:white">Logout</a></div>
 			</div>
-			<div id="conteudo">
+			<div id="conteudo"><img src="images/layout.png" height="50%" width="50%">
 			
 				<%
 					List<Usuario> lista = (List<Usuario>)session.getAttribute("lista");
