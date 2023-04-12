@@ -22,7 +22,7 @@
 				
 				<table border=1>
 					<tr>
-						<td style="color:white">USU¡RIO</td>
+						<td style="color:white">USU√ÅRIO</td>
 						<td style="color:white">NOME</td>
 						<td style="color:white">EMAIL</td>
 					</tr>
@@ -37,6 +37,9 @@
 						}
 					%>
 				</table>
+				<div>
+				<input type="button" name="btnInclusao" id="btnInclusao" value="Adicionar novo usuario"/>
+				</div>
 			</div>
 			<div id="rodape">Copyright &copy 2023</div>
 		</div>
