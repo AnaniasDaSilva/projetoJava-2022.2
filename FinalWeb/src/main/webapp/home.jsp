@@ -11,7 +11,7 @@
 	<body>
 		<div id="pagina">
 			<div id="barra">
-				<div id="logo"><img src="images/senac-logo.png" height="100px"></div>
+				<div id="logo"><img src="images/layout.png" height="100%" width="100%"></div>
 				<div id="menu"><a href="LogoutServlet" style="color:white">Logout</a></div>
 			</div>
 			<div id="conteudo">

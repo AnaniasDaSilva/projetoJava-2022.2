@@ -12,15 +12,18 @@
 				<div id="menu">Login</div>
 			</div>
 			<div id="conteudo">
-				<form class="login" method="post" action="LoginServlet">
+				<form class="login" method="post" action="InclusaoServlet">
 					<div class="div-entrada">
 						<input class="entrada" placeholder="Usuário" type="text" id="txtUsuario" name="txtUsuario"/>
 					</div>
 					<div class="div-entrada">
+						<input class="entrada" placeholder="Nome" type="text" id="txtNome" name="txtNome"/>
+					</div>					
+					<div class="div-entrada">
 						<input class="entrada" placeholder="Senha" type="password" id="txtSenha" name="txtSenha"/>
 					</div>
 					<div class="barra">
-						<input class="botao" type="submit" value="Entrar">
+						<input class="botao" type="submit" value="GRAVAR">
 					</div>
 				</form>
 			</div>
